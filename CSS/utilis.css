@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&family=Roboto:wght@300;400&family=Spline+Sans+Mono&display=swap');
+:root {
+    --main-bg-color: rgb(43, 46, 48);
+ }
+ 
+.my-margin{
+    margin:0 18px;
+}
+.img-size{
+    width:28px;
+}
+.text-center{
+    text-align: center;
+}
+.my-font-size{
+    color:rgb(43, 46, 48);
+    font-size: 12px;
+}
+.my-pad{
+    padding: 56px 0 56px 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 6px;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Spline Sans Mono', monospace;
+    color: var(--main-bg-color);
+
+
+}
+
